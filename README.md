@@ -1,3 +1,10 @@
+#OCA
+<div align="center">
+  <a href="https://franfurey.github.io/aquaViva/" target="_blank">
+    <img src="visualization/public/poster.png"/>
+  </a>
+</div>
+
 # Open-Climate-Analysis
 # About
 This is a repository gathering a bunch of climate-related data handling/retrieving sollutions. To help professional from diverse field to easily get access to climate data and ready analysis classification using koppen algorithm without having that much trouble. The main language used is Python through jupyter notebook. The goal is to make an interactive web map that would allow visualize open source climate data through their respective API's
