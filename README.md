@@ -1,7 +1,7 @@
 #OCA
 <div align="center">
 <!--   <a href="https://franfurey.github.io/aquaViva/" target="_blank"> -->
-    <img src="Koppen_climate_illustration.png.png"/>
+    <img src="Koppen_climate_illustration.png"/>
   </a>
 </div>
 
